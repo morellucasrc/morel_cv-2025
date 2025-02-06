@@ -4,9 +4,9 @@ import streamlit as st
 from PIL import Image
 import requests
 #from streamlit_lottie import st_lottie
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
 from pathlib import Path
-import pandas as pd
+#import pandas as pd
 
 page_bg_img="""
 <style>
