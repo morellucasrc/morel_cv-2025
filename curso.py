@@ -1,5 +1,4 @@
 import streamlit as st
-from fpdf import FPDF
 import PyPDF2
 from PIL import Image
 import requests
