@@ -1,5 +1,4 @@
 import streamlit as st
-import PyPDF2
 from PIL import Image
 import requests
 from streamlit_lottie import st_lottie
