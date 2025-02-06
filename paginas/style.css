@@ -1,0 +1,35 @@
+
+
+
+
+.st-key-texto textarea{
+    background-color: navy
+    
+    ;
+    border: 3px solid;
+
+}
+
+.st-key-foto img{
+    border-radius: 900px;
+    width: 100px;
+}
+
+
+.st-key-todo header{
+    color: blue;
+}
+.todo-red{
+    color: red;
+}
+
+.st-key-boton2 button{
+    width: 50px;
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.st-key-date_imput data{
+    background-color: aqua;
+}
+
