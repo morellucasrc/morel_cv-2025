@@ -83,7 +83,7 @@ st.write("---")
 column_foto , column_info = st.columns(2,gap="medium", vertical_alignment="top")
 
 with column_foto:
-    st.image("C:/Users/ignac/Desktop/Nueva carpeta/streamlit/paginas/prueba.png", width=250,)
+    st.image("paginas/prueba.png", width=250,)
 
 with column_info:
     st.title("Lucas Ezequiel Morel")
