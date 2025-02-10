@@ -54,7 +54,7 @@ st.markdown(
 st.markdown(page_bg_img,unsafe_allow_html=True)
 
 info_pagina = st.Page(
-    page= "C:/Users/ignac/Desktop/Nueva carpeta/streamlit/paginas/info.py",
+    page= "paginas/my_info.py",
     title= "Sobre mi",
     icon="👀",
     default= True,
