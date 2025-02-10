@@ -4,7 +4,7 @@ from streamlit_lottie import st_lottie
 
 
 def some_function():
-    return "Hola desde mi_info.py"
+    return "Hola desde my_info.py"
 def load_lottieurl( url: str):
     r = requests.get(url)
     if r.status_code != 200:
