@@ -1,5 +1,5 @@
 import streamlit as st
-from mi_info import some_function
+from my_info import some_function
 
 #import PyPDF2
 from PIL import Image
